@@ -1,4 +1,4 @@
-flashrom README
+nflashrom README
 ===============
 
 flashrom is a utility for detecting, reading, writing, verifying and erasing
